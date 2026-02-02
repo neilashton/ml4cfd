@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://neilashton.github.io/autocfd/sitemap.xml
